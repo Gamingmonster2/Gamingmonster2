@@ -31,8 +31,8 @@ An indie game developer passionate about crafting interactive web experiences. C
 
 -   **itch.io:** [https://gamingmonster2.itch.io](https://gamingmonster2.itch.io)
 -   **GitHub:** [https://github.com/Gamingmonster2](https://github.com/Gamingmonster2)
--   **Twitter / X
-
+-   **Twitter / X 
+https://x.com/Gamingmons2
 ---
 
 > "كل بكسل هو خطوة نحو مغامرة جديدة."
